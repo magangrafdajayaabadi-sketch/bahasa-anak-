@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "Kiko Bahasa",
+  "short_name": "Kiko",
+  "description": "Aplikasi belajar bahasa untuk anak dengan permainan, latihan suara, cerita, dan AI Tutor.",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#F6F7FC",
+  "theme_color": "#FF3D9A",
+  "categories": ["education", "kids", "games"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
